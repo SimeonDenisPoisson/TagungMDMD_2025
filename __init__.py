@@ -1,0 +1,1 @@
+from .RISEmagic import hide
